@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 my name is Benson Zhang. I am a student at the Honolulu Community College studying construction management. 
+
+Currently taking cs50x and learning c. 
 
 <!--
 **hellobennyb/hellobennyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
