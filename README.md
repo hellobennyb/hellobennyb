@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Benson Zhang. I am a student at the Honolulu Community College studying construction management. 
+## Hi there 👋 my name is Benson Zhang. I am a student studying construction management. 
 
 Currently taking cs50x and learning c. 
 
